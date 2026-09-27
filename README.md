@@ -1,6 +1,5 @@
-# 💫 About Me:
-Hello my name is Jim. Bangkok. I’m currently studying Bachelor of Computer Science
 
+Hello my name is Jim. Bangkok. I’m currently studying Bachelor of Computer Science
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marvin-ponbunyaluk-46373b382/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jimsavia02@gmail.com) 
